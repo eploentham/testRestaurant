@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">testRestaurant</string>
+    <string name="btnOk">Button</string>
+    <string name="textview">TextView</string>
+    <string name="txtCode">Code</string>
+    <string name="txtName">Name</string>
+    <string name="txtCode1">code</string>
+    <string name="txtName1">Name</string>
+</resources>
